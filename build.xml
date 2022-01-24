@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="InteliJ" default="full-suite" basedir=".">
+<project name="jenkinsCalculatriceIJ" default="full-suite" basedir=".">
     <!-- GLOBAL VARIABLES -->
     <property name="source" value="app" />
     <!-- END -->
