@@ -10,7 +10,6 @@
     <!-- DATE -->
     <target name="date">
         <echo message="Printing system date ..."/>
-        <exec executable="date" />
     </target>
     <!-- END -->
     <!-- LIST -->
